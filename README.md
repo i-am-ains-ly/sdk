@@ -1,3 +1,5 @@
+Fork of https://github.com/phrest/sdk for Phalcon PHP >= 2.0.0
+
 PhREST SDK
 ===============
 
