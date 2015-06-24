@@ -16,12 +16,18 @@
       "Phrest\\SDK\\": "src/"
     }
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/i-am-ains-ly/api.git"
+    }
+  ],
   "require":     {
     "phrest/api": "dev-master",
-    "digitronac/phalcon-ide-stubs": "1.3.0",
+    "digitronac/phalcon-ide-stubs": "2.0.2",
     "zendframework/zend-code": "2.3.*@dev",
     "guzzlehttp/guzzle": "4.1.8",
-    "phalcon/incubator": "1.3.0.*@dev",
+    "phalcon/incubator": "2.0.2",
     "nikic/php-parser": "^1.3"
   }
 }
