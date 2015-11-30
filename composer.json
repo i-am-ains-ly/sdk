@@ -24,10 +24,10 @@
   ],
   "require":     {
     "phrest/api": "dev-master",
-    "digitronac/phalcon-ide-stubs": "2.0.2",
+    "digitronac/phalcon-ide-stubs": "~2.0.2",
     "zendframework/zend-code": "2.3.*@dev",
-    "guzzlehttp/guzzle": "4.1.8",
-    "phalcon/incubator": "2.0.2",
+    "guzzlehttp/guzzle": "~4.1.8",
+    "phalcon/incubator": "~2.0.2",
     "nikic/php-parser": "^1.3"
   }
 }
